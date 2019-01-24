@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <h1>Projects</h1>
+  <ul>
+    <li>Edge detection</li>
+    <li>DNS Resolver</li>
+    <li>AES Encryption Implementation</li>
+  </ul>
+</html>
